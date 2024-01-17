@@ -39,13 +39,13 @@ tMovies is a simple movie application built with React JS, Typescript, and Tailw
 
 ## :camera: Screenshots
 
-<kbd><img width="952" alt="hero" src="https://github.com/fdhhhdjd/movie-app/assets/122378993/195e2334-4790-4d0c-85e6-7a03ca1981ee"></kbd>
+<kbd><img width="952" alt="hero" src="https://res.cloudinary.com/ecommerce2021/image/upload/v1705459434/chickenpng_noas1g.png"></kbd>
 
 <kbd><img width="950" alt="youtube video" src="https://user-images.githubusercontent.com/122378993/218236507-d55ca04d-2d6c-414b-9316-3817ae1a6cd7.png"></kbd>
 
 <kbd><img width="953" alt="movie" src="https://user-images.githubusercontent.com/122378993/218257506-40efd922-0525-4620-81f4-eb03cdc661c8.png"></kbd>
 
-<kbd><img width="953" alt="catalog" src="https://github.com/fdhhhdjd/movie-app/assets/122378993/d185a488-bb66-4890-a8af-a73b4e0941b5"></kbd>
+<kbd><img width="953" alt="catalog" src="https://res.cloudinary.com/ecommerce2021/image/upload/v1705459436/292719194-d185a488-bb66-4890-a8af-a73b4e0941b5_t7i5if.png"></kbd>
 
 <br/>
 <br/>
